@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,ychen2533,Chen,Yifan
 employee,szhang655,Zhang,Shixin
